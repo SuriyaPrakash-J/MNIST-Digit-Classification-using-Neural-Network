@@ -4,6 +4,7 @@ This project demonstrates the implementation of a simple neural network to class
 
 # 🗂️ Contents:
 
+
 -Data Loading and Preprocessing
 -Neural Network Architecture (Sequential model with Dense layers)
 -Model Training and Evaluation
